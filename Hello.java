@@ -6,4 +6,4 @@ public class Hello{
     public static void display(String name){
         System.out.printIn("welcome" + name);
     }
-}
+} // that's a comment input
